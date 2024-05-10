@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\C#\f2048\bin\Debug\net8.0\f2048.exe
+C:\Users\Asus\Desktop\C#\f2048\bin\Debug\net8.0\f2048.deps.json
+C:\Users\Asus\Desktop\C#\f2048\bin\Debug\net8.0\f2048.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\f2048\bin\Debug\net8.0\f2048.dll
+C:\Users\Asus\Desktop\C#\f2048\bin\Debug\net8.0\f2048.pdb
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\f2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\f2048.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\f2048.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\f2048.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\f2048.dll
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\refint\f2048.dll
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\f2048.pdb
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\f2048.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\f2048\obj\Debug\net8.0\ref\f2048.dll
